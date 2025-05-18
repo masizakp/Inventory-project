@@ -1,2 +1,1 @@
-# Inventory-project
-
+The purpose of this task is to create a Python program that manages an inventory of shoes for a retail business. The system will read data from a file (inventory.txt) and allow users (e.g., store managers) to perform a variety of operations such as adding new inventory, checking stock levels, calculating item values, and identifying restocking needs.
